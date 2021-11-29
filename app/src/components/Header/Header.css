@@ -1,0 +1,10 @@
+.header {
+  background: purple;
+  padding: 20px;
+  font-size: larger;
+  color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* display: block; */
+}

@@ -1,0 +1,4 @@
+.todos {
+  max-height: 220px;
+  overflow: auto;
+}
